@@ -1,0 +1,41 @@
+ *{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    border: border-box;
+ }
+
+ .navbar {
+    height: 100px;
+    background-color: black;
+    color: white;
+   
+}
+
+.nav-logo{
+    height: 30px;
+    width: 50px;
+ }
+
+
+.logo {
+    
+    background-size: cover;
+    height: 30px;
+    width: 100px;
+    background-color: white; /* Background color for logo */
+   
+  
+}
+ /* .nav-logo{
+    height: 50px;
+    width: 100px;
+ } */
+
+ .logo img {
+    max-width: 100%;  /* Ensure image scales inside the div */
+    max-height: 100%;
+}
+.border{
+   border: 2px solid transparent;
+}
